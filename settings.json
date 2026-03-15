@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":PIXELVERSE-13MC65.aternos.me",
+    "ip":"PIXELVERSE-13MC65.aternos.me",
     "port": 33898,
     "version": "",
     "try-creative": false
